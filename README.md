@@ -10,4 +10,4 @@ In this project the task is to recognise student face and to note down that stud
 3. Comparing faces: Now that we have face embeddings for every face in our data saved in a file, the next step is to recognise a new  image. So the first step is to compute the face embedding for the image using the same network we used above and then compare this embedding with the rest of the embeddings we have. 
 4. Creating excel file : Once we recognise the image now we have to note down that particular roll number in excel sheet. 
 
-### Python libraries used are : OpenCV,facerecognition,dlib,Numpy
+#### Python libraries used are : OpenCV,face_recognition,dlib,Numpy
