@@ -1,7 +1,7 @@
 # Face-Recognition
 
 Face recognition is a computer vision that helps to locate/visualize human face. Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time.There are various algorithms that can do face recognition but their accuracy might vary. We use face embedding in which each face is converted into a vector and this technique is called deep metric learning.
-OpenCV is a Library which is used to carry out image processing using programming languages like python. This project utilizes OpenCV Library to make a Real-Time Face Detection using your webcam as a primary camera.
+OpenCV is a Library which is used to carry out image processing using programming languages like python. This project utilizes OpenCV Library to make a real-time Face Detection using your webcam as a primary camera.
 
 ## Steps involved in this project:
 In this project the task is to recognise student face and to note down that student roll number in excel file. I have created dataset of 10 student images and then performed following steps:   
